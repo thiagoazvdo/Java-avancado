@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 import com.thoughtworks.xstream.security.AnyTypePermission;
-
+//NECESSARIO ADICIONAR LIB (JAR) XSTREAM - E ADICIONAR AO BUILD PATH 
 public class LendoProduto {
 
 	public static void main(String[] args) throws FileNotFoundException {

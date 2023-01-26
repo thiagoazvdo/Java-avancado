@@ -9,6 +9,7 @@ import java.util.List;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
+//NECESSARIO ADICIONAR LIB (JAR) XSTREAM - E ADICIONAR AO BUILD PATH 
 
 public class SalvandoCarrinho {
 	//gerando um carrinho com varios produtos dentro de um arraylist
