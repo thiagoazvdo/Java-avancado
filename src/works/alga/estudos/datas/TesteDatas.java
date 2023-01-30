@@ -3,6 +3,7 @@ package works.alga.estudos.datas;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 
 public class TesteDatas {
@@ -26,6 +27,8 @@ public class TesteDatas {
 		} catch (ParseException e) {
 			System.out.printf("formato de data inválido");
 		}
+		
+		
 		//lembrando que hora também eh com objeto do tipo date precisando apenas usar a mascara HH:mm:ss
 
 	}

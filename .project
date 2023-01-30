@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>lib/log4j-1.2.17.jar</name>
+			<type>1</type>
+			<location>E:/thiag/Downloads/apache-jar-file/apache-log4j-1.2.17/log4j-1.2.17.jar</location>
+		</link>
+	</linkedResources>
 </projectDescription>
